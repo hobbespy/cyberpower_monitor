@@ -1,5 +1,5 @@
 # cyberpower_monitor
-Simple python script that scraps Cyberpower's website and constantly sends product's stock status through Discord.
+Simple python script that scraps Cyberpower's website and constantly sends product's availablity status through Discord.
 
 
 Instructions:
