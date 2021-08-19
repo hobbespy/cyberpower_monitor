@@ -10,6 +10,5 @@ Requirements:
 - pip install requests
 - pip install discord_webhook
 
-
 Preview:
 ![image](https://user-images.githubusercontent.com/78468858/130002577-37199e46-2fa4-476e-b736-d5beb60dec32.png)
